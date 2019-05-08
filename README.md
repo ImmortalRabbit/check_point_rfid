@@ -2,9 +2,9 @@
 A small project on arduino that can give an access for certain user to light lamp.
 
 Used:
-Arduino
-Python3
-Postgresql
+* Arduino
+* Python3
+* Postgresql
 
 Python3 Libraries:
 psycopg2
